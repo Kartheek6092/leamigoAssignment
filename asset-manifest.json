@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leamigoAssignment/static/css/main.f71fa8b5.css",
+    "main.js": "/leamigoAssignment/static/js/main.2d905b84.js",
+    "static/js/787.a4448875.chunk.js": "/leamigoAssignment/static/js/787.a4448875.chunk.js",
+    "index.html": "/leamigoAssignment/index.html",
+    "main.f71fa8b5.css.map": "/leamigoAssignment/static/css/main.f71fa8b5.css.map",
+    "main.2d905b84.js.map": "/leamigoAssignment/static/js/main.2d905b84.js.map",
+    "787.a4448875.chunk.js.map": "/leamigoAssignment/static/js/787.a4448875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f71fa8b5.css",
+    "static/js/main.2d905b84.js"
+  ]
+}
