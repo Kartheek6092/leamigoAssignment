@@ -1,0 +1,69 @@
+[
+    {
+    "onboarding": "John Doe",
+    "destination": "New York",
+      "date": "2023-07-25",
+      "vehicle_type": "Car"
+    },
+    {
+      "onboarding": "Jane Doe",
+      "destination": "Los Angeles",
+      "date": "2023-07-25",
+      "vehicle_type": "Bus"
+    },
+    {
+      "onboarding": "Mike Smith",
+      "destination": "Chicago",
+      "date": "2023-07-25",
+      "vehicle_type": "Train"
+    },
+    {
+      "onboarding": "Peter Jones",
+      "destination": "Dallas",
+      "date": "2023-07-25",
+      "vehicle_type": "Plane"
+    },
+    {
+      "onboarding": "Sarah Williams",
+      "destination": "Houston",
+      "date": "2023-07-25",
+      "vehicle_type": "Taxi"
+    },
+    {
+      "onboarding": "David Brown",
+      "destination": "Phoenix",
+      "date": "2023-07-25",
+      "vehicle_type": "Uber"
+    },
+    {
+      "onboarding": "Elizabeth Green",
+      "destination": "Denver",
+      "date": "2023-07-25",
+      "vehicle_type": "Lyft"
+    },
+    {
+      "onboarding": "Michael Johnson",
+      "destination": "San Francisco",
+      "date": "2023-07-25",
+      "vehicle_type": "Tesla"
+    },
+    {
+      "onboarding": "James White",
+      "destination": "Seattle",
+      "date": "2023-07-25",
+      "vehicle_type": "Honda"
+    },
+    {
+      "onboarding": "Emily Black",
+      "destination": "Portland",
+      "date": "2023-07-25",
+      "vehicle_type": "Toyota"
+    },
+    {
+    "onboarding": "Robert Green",
+    "destination": "San Diego",
+      "date": "2023-07-25",
+      "vehicle_type": "Ford"
+    }
+  ]
+  
